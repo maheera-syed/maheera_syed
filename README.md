@@ -1,3 +1,24 @@
+<h1 align="center">Hi 👋, I'm Maheera Syed</h1>
+<h3 align="center">Junior Software engineer | Full Stack Developer</h3>
+
+- 🔭 I’m currently working on **Portfolio project**
+
+- 🌱 I’m currently learning **react, Next.js, node.js, full stack developer**
+
+- 👯 I’m looking to collaborate on **Full Stack Development**
+
+- 🤝 I’m looking for help with **my Portfolio**
+
+- 👨‍💻 All of my projects are available at [Maheera_Syed.com](Maheera_Syed.com)
+
+- 📝 I regularly write articles on [Maheera_Syed.com](Maheera_Syed.com)
+
+- 💬 Ask me about **react, Next.js, node.js, full stach developer**
+
+- 📫 How to reach me **maheerasyed2771@gmail.com**
+
+- 📄 Know about my experiences [Maheera_Syed.com](Maheera_Syed.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
